@@ -2,6 +2,8 @@
 
 # Scan images on your PC to capture unique VPets powered by advanced AI LLM technology. Chat with your VPets, form bonds, and battle wild creatures as you build your ultimate team in this innovative digital adventure!
 
+Built with Unreal Engine 5.5.4
+
 ===========================================================
 
 Step into a one-of-a-kind digital adventure where VPets—your very own digital creatures inspired by the classic world of Digimon—are waiting to be discovered. But here’s the twist: instead of scanning barcodes, you’ll scan real-world pictures directly from your PC!
