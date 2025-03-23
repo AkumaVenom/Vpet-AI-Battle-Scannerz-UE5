@@ -6,6 +6,10 @@ Built with Unreal Engine 5.5.4
 
 ===========================================================
 
+![Screenshot 2025-03-23 225037](https://github.com/user-attachments/assets/0531fc93-aaef-4dbe-abf7-ff22b7b13f3c)
+
+===========================================================
+
 Step into a one-of-a-kind digital adventure where VPets—your very own digital creatures inspired by the classic world of Digimon—are waiting to be discovered. But here’s the twist: instead of scanning barcodes, you’ll scan real-world pictures directly from your PC!
 
 Using Vpet AI Battle Scannerz, you can explore your own digital collection as you scan .png and .jpg image files. The game uses advanced technology to generate unique seeds from any scanned image, creating a one-of-a-kind Vpet each time, tied to that specific image. Whether it’s an image from your vacation, your artwork, or something from the web, each scan brings a fresh creature into your world. Every scan that has the same seed will always generate the same Vpet of that seed, offering endless opportunities for collection and discovery.
